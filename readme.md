@@ -1,5 +1,4 @@
-![Shot](./shot.gif)
-![Laser](./SpriteX.gif)
+![Shot](./banner-github.gif)
 <div id="header" align="center">
     <img src="C:\Users\laneg\OneDrive\Escritorio\GitHub\Animation_shot_RB.png" width="200" />
     <h1 align="center">Hi! Im BrainX 🧠</h1>
